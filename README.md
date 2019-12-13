@@ -1,6 +1,6 @@
 # MessagingSystem
 ## Description
-simple rest API backend system that responsible of handling messages between users
+simple rest API backend system that responsible of handling messages between users.
 
 a message contains :
 1. sender (owner)
@@ -9,5 +9,5 @@ a message contains :
 4. subject
 5. creation date
 
-
+Created in Python language using Django framework and rest framework.
 
