@@ -1,4 +1,5 @@
 # MessagingSystem
+## Description
 simple rest API backend system that responsible of handling messages between users
 
 a message contains :
@@ -7,5 +8,6 @@ a message contains :
 3. message
 4. subject
 5. creation date
+
 
 
